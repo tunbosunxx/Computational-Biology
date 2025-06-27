@@ -1,0 +1,6 @@
+molecule_chembl_id,canonical_smiles,standard_value
+CHEMBL4449797,COc1ccc([C@@H]2c3ccsc3CCN2C(=O)Nc2cc(Cl)cc(Cl)c2)cc1,4890.0
+CHEMBL4537998,O=C(Nc1ccc(Oc2ccc(F)cc2)cc1)N1CCc2ncccc2[C@@H]1c1ccc(Cl)cc1,23.0
+CHEMBL4458424,O=C(Nc1cnc(Oc2ccc(F)cc2)nc1)N1CCc2ncccc2[C@@H]1c1ccc(F)cc1,46.0
+CHEMBL4471621,COc1ccc([C@H]2c3ccsc3CCN2C(=O)Nc2cc(Cl)cc(Cl)c2)cc1,412.0
+CHEMBL4593222,COc1ccc(C2c3ccsc3CCN2C(=O)Nc2cc(Cl)cc(Cl)c2)cc1,212.0
